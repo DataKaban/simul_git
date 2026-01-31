@@ -1,2 +1,2 @@
-#Sim Git Modul
+# Sim Git Modul
 репозиторий для отработки практики.
